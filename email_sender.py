@@ -37,11 +37,11 @@ def send_email(sender, receiver, subject, message, files):
 
 if __name__ == "__main__":
     sender = "arinadovgay@gmail.com"
-    receiver = "lardi28102000@gmail.com"
+    receiver = "avenga.academy@avenga.com"
     subject = "Bid Data Intreship - Test task - Dovhai Oryna"
     message = (
         "Hello, sending you results, csv file is attached. Here is the link to GitHub "
-        "https://github.com/ArinaDovgay/Big-Data-Test-task-"
+        "https://github.com/ArinaDovgay/Big-Data-Test-Task"
     )
     print(
         send_email(
