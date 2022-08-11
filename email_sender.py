@@ -41,6 +41,7 @@ if __name__ == "__main__":
     subject = "Bid Data Intreship - Test task - Dovhai Oryna"
     message = (
         "Hello, sending you results, csv file is attached. Here is the link to GitHub "
+        "https://github.com/ArinaDovgay/Big-Data-Test-task-"
     )
     print(
         send_email(
