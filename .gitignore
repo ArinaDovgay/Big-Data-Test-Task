@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+venv/
+
+# idea folder, uncomment if you don't need it
+.idea
+
+data/
+.env
